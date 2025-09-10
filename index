@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Anne Cortez — structured data</title>
+</head>
+<body>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://annecortez.framer.website/#person",
+        "name": "Anne Cortez",
+        "alternateName": "Communications Expert",
+        "url": "https://annecortez.framer.website/",
+        "jobTitle": "Communications Expert; Communications and knowledge management consultant (ADB)",
+        "description": "Communications and knowledge management consultant at the Asian Development Bank with over a decade of experience advancing health equity, climate action, and digital inclusion across Asia and the Pacific.",
+        "headline": "Communications and knowledge management consultant — health equity, climate action, digital inclusion",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://globaldev.blog/wp-content/uploads/2024/10/Anne20Cortez_photo.jpg",
+          "height": 1200,
+          "width": 1200,
+          "caption": "Anne Cortez — headshot"
+        },
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://framerusercontent.com/images/a2ta8gDNFA6ZDOfgmEH9xbKlDco.png",
+          "height": 400,
+          "width": 400
+        },
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Asian Development Bank",
+          "url": "https://www.adb.org/",
+          "sameAs": "https://www.adb.org/"
+        },
+        "alumniOf": [
+          {"@type":"CollegeOrUniversity","name":"Ewha Womans University","sameAs":"https://www.ewha.ac.kr/"},
+          {"@type":"CollegeOrUniversity","name":"University of the Philippines","sameAs":"https://www.up.edu.ph/"},
+          {"@type":"CollegeOrUniversity","name":"National University of Singapore","sameAs":"https://www.nus.edu.sg/"}
+        ],
+        "knowsAbout": ["health equity","climate action","digital inclusion","communications","knowledge management","social mobilization","public policy","AI"],
+        "sameAs": [
+          "https://www.linkedin.com/in/annekatherinecortez/",
+          "https://blogs.adb.org/author/anne-cortez",
+          "https://annecortez.my.canva.site/",
+          "https://oneanne.medium.com/",
+          "https://apolitical.co/en/profiles/me",
+          "https://globaldev.blog/author/anne-cortez/",
+          "https://techforgoodinstitute.org/blog/perspectives/unlocking-the-digital-potential-of-aseans-small-businesses/",
+          "https://unu.edu/press-release/united-nations-university-appoints-rajat-khosla-next-director-its-malaysia-based",
+          "https://blogs.adb.org/blog/four-ways-asia-can-strengthen-regional-health-security-next-pandemic",
+          "https://globaldev.blog/how-blue-carbon-ecosystems-are-saving-the-philippines-sinking-islands/",
+          "https://rksi.adb.org/publications/paving-an-even-path-in-asias-digital-economy-role-of-regional-cooperation-in-inclusive-digital-transformation/",
+          "https://www.ipsnews.net/author/anne-cortez/",
+          "https://www.facebook.com/annekatherinecortez/",
+          "https://www.depeddasma.edu.ph/um-consultative-meeting-with-school-heads-and-partnership-focal-persons/",
+          "https://www.depeddasma.edu.ph/um-submission-of-first-quarter-school-partnerships-data-through-the-deped-partnerships-database-system-dpds-2/",
+          "https://www.deped.gov.ph/2019/05/29/brigada-eskwela-bayanihan-ng-bata-para-sa-bata/",
+          "https://www.rappler.com/moveph/213036-tribute-alternative-learning-system-mobile-teachers-philippines/",
+          "https://thefinancialexpress.com.bd/views/views/securing-bangladeshs-economic-future",
+          "https://www.ipsnews.net/2024/11/blue-carbon-ecosystems-saving-philippines-sinking-islands/",
+          "https://www.ipsnews.net/2023/02/role-regional-economic-cooperation-inclusive-digital-transformation-asia/",
+          "https://www.cultureunplugged.com/filmedia/ipsnews.php?idnews=999124888",
+          "https://www.globalissues.org/news/2023/02/21/33110"
+        ],
+        "mainEntityOfPage": {"@type":"WebPage","@id":"https://annecortez.framer.website/"},
+        "educationalCredentialAwarded": "Master's degree in Development Studies (Ewha Womans University); Bachelor's degree in Communications (University of the Philippines); Executive education certificate in Public Policy and AI (National University of Singapore)"
+      }
+    ]
+  }
+  </script>
+
+  <p>Structured data hosted here for embedding.</p>
+</body>
+</html>
